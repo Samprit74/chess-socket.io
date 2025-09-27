@@ -1,6 +1,6 @@
 # ♟️ Chess Socket.IO
 
-![Chess Banner](https://img.freepik.com/premium-vector/check-checkmate-landing-page-design-template-online-chess-club-personal-training-class_341509-5995.jpg)
+![Chess Banner]([https://img.freepik.com/premium-vector/check-checkmate-landing-page-design-template-online-chess-club-personal-training-class_341509-5995.jpg](https://wallpapercave.com/wp/wp2883566.jpg))
 
 > Play real-time multiplayer chess online using **Node.js**, **Express**, and **Socket.IO**!  
 
