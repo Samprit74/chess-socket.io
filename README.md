@@ -1,6 +1,6 @@
 # ♟️ Chess Socket.IO
 
-![Chess Banner](Create a modern, flat-style 2D illustration for a real-time multiplayer chess game. Show a chessboard from a top-down view with white and black pieces, highlighting possible moves with subtle colored markers. Include icons or small indicators for White player, Black player, and Spectator. Use a clean, minimalist design with bright, contrasting colors and smooth lines. The style should be professional, eye-catching, and suitable for a website landing page or GitHub project showcase. Avoid 3D or realistic rendering — keep it flat and digital)
+![Chess Banner](https://img.freepik.com/premium-vector/check-checkmate-landing-page-design-template-online-chess-club-personal-training-class_341509-5995.jpg)
 
 > Play real-time multiplayer chess online using **Node.js**, **Express**, and **Socket.IO**!  
 
